@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Validation Form</title>
+    <link rel="stylesheet" href="index.css">
+
+
+
+    <script>
+        function validateInput() {
+            var userInput = document.getElementById("userInput").value;
+            var resultElement = document.getElementById("result");
+            var body = document.body;
+
+            if (isNaN(userInput)) {
+                if (userInput.length === 7) {
+                    resultElement.innerHTML = '<span class="gradient-text">THALA FOR A REASON</span>';
+                    triggerFirecrackers();
+                    body.classList.remove('red-background'); // Remove red background if it's set
+                    body.classList.add('gradient-background'); // Add gradient background
+                } else {
+                    resultElement.innerText = " NO THALA ";
+                    body.classList.remove('gradient-background'); // Remove gradient background if it's set
+                    body.classList.add('red-background'); // Add red background
+                }
+            } else {
+                var digitSum = userInput.toString().split('').reduce(function (acc, digit) {
+                    return acc + parseInt(digit);
+                }, 0);
+
+                if (digitSum === 7) {
+                    resultElement.innerHTML = '<span class="gradient-text">THALA FOR A REASON</span>';
+                    triggerFirecrackers();
+                    body.classList.remove('red-background'); // Remove red background if it's set
+                    body.classList.add('gradient-background'); // Add gradient background
+                } else {
+                    resultElement.innerText = " NO THALA ";
+                    body.classList.remove('gradient-background'); // Remove gradient background if it's set
+                    body.classList.add('red-background'); // Add red background
+                }
+            }
+        }
+
+        function triggerFirecrackers() {
+            var firecrackerContainer = document.getElementById("firecracker-container");
+            var firecracker = document.createElement("div");
+            firecracker.className = "firecracker";
+            firecrackerContainer.appendChild(firecracker);
+            setTimeout(function () {
+                firecracker.remove();
+            }, 500);
+        }
+    </script>
+</head>
+<body>
+    <h1>CHECKING THALA</h1>
+
+    <label for="userInput">Enter a string or an integer:</label>
+    <input type="text" id="userInput" name="userInput" required>
+
+    <button type="button" onclick="validateInput()">Validate</button>
+
+    <p id="result"></p>
+    <div id="firecracker-container"></div>
+</body>
+</html>

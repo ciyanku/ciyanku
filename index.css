@@ -1,0 +1,89 @@
+@keyframes firecracker {
+    0% {
+        transform: translateY(0) rotate(0deg);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-100px) rotate(720deg);
+        opacity: 0;
+    }
+}
+
+.firecracker {
+    width: 10px;
+    height: 100px;
+    background-color: #ffcc00;
+    border-radius: 5px;
+    position: relative;
+    animation: firecracker 10s ease-out;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    transition: background-color 1s ease; /* Add transition effect for background color change */
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+input {
+    width: 40%;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #333;
+    text-align: center;
+}
+
+.gradient-text {
+    background: linear-gradient(to right, #b30b6db0, #ffcc00);
+    display: inline;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.gradient-background {
+    background: linear-gradient(to right, #b30b6db0, #ffcc00);
+}
+
+/* Additional styles for the red background when 'NO THALA' */
+.red-background {
+    background-color: red !important;
+}
