@@ -1,75 +1,75 @@
-<h1 align="center">Hi, I'm Prashant 👋</h1>
-<p align="center">
-  <b>M.Sc. Data Science</b> · Central University of Haryana &nbsp;|&nbsp; Mathura, India
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://YOUR_PORTFOLIO_SITE"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=6366f1" alt="profile views"/>
-</p>
+<div align="center">
 
-About me
-I'm a second-year M.Sc. Data Science student passionate about building end-to-end ML systems that solve real problems. My work spans predictive modelling, NLP pipelines, and data-driven storytelling through visualisation.
+# Prashant
 
-🔭 Currently working on a recession prediction pipeline using IMF WEO data (XGBoost + BorderlineSMOTE)
-🌱 Exploring open source AI through GSSoC — contributing to AegisAI, an AI-GRC platform
-💬 Ask me about ML pipelines, NLP, EDA, and SQL optimisation
-📄 Actively seeking a Data Science / ML internship
+**Data Science · Machine Learning · NLP**
 
+M.Sc. Data Science · Central University of Haryana · India
 
-Tech stack
-Languages
-Show Image
-Show Image
-Show Image
-ML / Data Science
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-NLP
-Show Image
-Show Image
-Show Image
-Show Image
-Tools & Platforms
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366f1&label=profile+views)
 
-Featured projects
-ProjectDescriptionStackLinkRecession Prediction PipelineEnd-to-end ML model using IMF WEO macroeconomic data. Feature engineering, BorderlineSMOTE oversampling, XGBoost with threshold tuning.Python · XGBoost · imbalanced-learnRepo →India Tech Job Market EDAAnalysed 5,000 synthetic job listings — salary distributions, skill-salary heatmaps, city-tier comparisons, hiring trends. Interactive Chart.js dashboard.Python · Pandas · Chart.jsRepo →Movie Metadata ML PipelinePredicted movie success using Random Forest and Gradient Boosting. Cinematic noir dashboard in Chart.js.Python · scikit-learn · Chart.jsRepo →AI Support Triage AgentTerminal-based triage agent using BM25 retrieval + LLM classification. Built for HackerRank hackathon.Python · BM25 · NLPRepo →Face Detection & Age PredictionReal-time face detection and age estimation using OpenCV DNN and DeepFace in Google Colab.Python · OpenCV · DeepFaceRepo →
+</div>
 
-GitHub stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
-Open source
+```python
+prashant = {
+    "focus"    : ["Machine Learning", "NLP", "Data Analysis"],
+    "currently": "Recession prediction · IMF WEO data · XGBoost",
+    "open_to"  : "Data Science / ML Internship",
+    "building" : "AI-GRC platform (GSSoC open source)"
+}
+```
 
-GSSoC 2024 contributor — AegisAI AI-GRC Platform
-Preparing structured GitHub issues for open source contributors in the AI governance space
+---
 
+### Skills
 
-Certifications & simulations
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154360?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
-Deloitte Australia Data Analytics Job Simulation — Forage
-M.Sc. coursework: Machine Learning Techniques · Natural Language Processing · EDA
+---
 
+### Projects
 
-<p align="center">
-  <i>Open to Data Science and ML internship opportunities — feel free to reach out!</i>
-</p>
+| | Project | Stack |
+|--|---------|-------|
+| 📈 | [**Recession Prediction Pipeline**](https://github.com/YOUR_USERNAME/recession-prediction) · IMF WEO macroeconomic data, BorderlineSMOTE, threshold-tuned XGBoost | Python · XGBoost · imbalanced-learn |
+| 🗺️ | [**India Tech Job Market EDA**](https://github.com/YOUR_USERNAME/india-tech-jobs-eda) · 5,000 listings — salary trends, skill-salary heatmaps, city-tier analysis | Pandas · Chart.js |
+| 🎬 | [**Movie Metadata ML Pipeline**](https://github.com/YOUR_USERNAME/movies-ml-pipeline) · Success prediction using Random Forest & Gradient Boosting | scikit-learn · Chart.js |
+| 🤖 | [**AI Support Triage Agent**](https://github.com/YOUR_USERNAME/support-triage-agent) · BM25 retrieval + LLM classification, HackerRank hackathon | Python · NLP · BM25 |
+| 👁️ | [**Face Detection & Age Prediction**](https://github.com/YOUR_USERNAME/face-age-detection) · Real-time detection using OpenCV DNN and DeepFace | OpenCV · DeepFace |
+
+---
+
+### Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="155"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="155"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Seeking a Data Science or ML internship · Open to collaborations*
+
+</div>
