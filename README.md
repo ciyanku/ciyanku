@@ -71,6 +71,24 @@
 
 ---
 
+## 🏆 Google Developer & Community Badges
+
+| Badge                            | Credential                                                                                              |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 🚀 Google Cloud Skills Boost     | [View Badge](https://developers.google.com/profile/badges/skillsboost/earned-badge)                     |
+| 🤖 Build with AI 2026 Attendee   | [View Badge](https://developers.google.com/profile/badges/events/community/build-with-ai/2026/attendee) |
+| ☁️ Google Cloud Innovator Member | [View Badge](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member)       |
+| 🌐 GDG on Campus Member          | [View Badge](https://developers.google.com/profile/badges/community/gdg/GDGoC/member)                   |
+| 🔍 GDG Discovery Badge           | [View Badge](https://developers.google.com/profile/badges/community/gdg/discovery)                      |
+
+### 📜 Certifications & Achievements
+
+* Google Cloud Skills Boost Participant
+* Build with AI 2026 Attendee
+* Google Cloud Innovators Community Member
+* Google Developer Groups (GDG) Member
+* Active Learner in AI, Cloud, and Data Science
+
 ## 📚 Currently Learning
 
 * Machine Learning
