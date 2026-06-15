@@ -1,75 +1,92 @@
-<div align="center">
+# Hi there 👋, I'm Prashant Bisht
 
-# Prashant
+### 🎓 MSc Data Science Student
 
-**Data Science · Machine Learning · NLP**
-
-M.Sc. Data Science · Central University of Haryana · India
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366f1&label=profile+views)
-
-</div>
+### 💻 Aspiring Data Scientist | Machine Learning Enthusiast | AI Learner
 
 ---
 
-```python
-prashant = {
-    "focus"    : ["Machine Learning", "NLP", "Data Analysis"],
-    "currently": "Recession prediction · IMF WEO data · XGBoost",
-    "open_to"  : "Data Science / ML Internship",
-    "building" : "AI-GRC platform (GSSoC open source)"
-}
-```
+## 🚀 About Me
+
+* 🎓 Pursuing MSc in Data Science
+* 📚 Learning Machine Learning, Data Analytics, and AI
+* 🐍 Skilled in Python, SQL, Pandas, and NumPy
+* 📊 Interested in Data Visualization and Predictive Modeling
+* 🌱 Currently building Data Science and Machine Learning projects
+* 🎯 Goal: Become a Data Scientist and AI Engineer
 
 ---
 
-### Skills
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154360?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+### Programming Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Projects
+### Databases
 
-| | Project | Stack |
-|--|---------|-------|
-| 📈 | [**Recession Prediction Pipeline**](https://github.com/YOUR_USERNAME/recession-prediction) · IMF WEO macroeconomic data, BorderlineSMOTE, threshold-tuned XGBoost | Python · XGBoost · imbalanced-learn |
-| 🗺️ | [**India Tech Job Market EDA**](https://github.com/YOUR_USERNAME/india-tech-jobs-eda) · 5,000 listings — salary trends, skill-salary heatmaps, city-tier analysis | Pandas · Chart.js |
-| 🎬 | [**Movie Metadata ML Pipeline**](https://github.com/YOUR_USERNAME/movies-ml-pipeline) · Success prediction using Random Forest & Gradient Boosting | scikit-learn · Chart.js |
-| 🤖 | [**AI Support Triage Agent**](https://github.com/YOUR_USERNAME/support-triage-agent) · BM25 retrieval + LLM classification, HackerRank hackathon | Python · NLP · BM25 |
-| 👁️ | [**Face Detection & Age Prediction**](https://github.com/YOUR_USERNAME/face-age-detection) · Real-time detection using OpenCV DNN and DeepFace | OpenCV · DeepFace |
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+
+### Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 ---
 
-### Stats
+## 📂 Featured Projects
 
-<div align="center">
+### 🚢 Titanic Survival Prediction
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="155"/>
+* Data Cleaning and EDA
+* Feature Engineering
+* Random Forest Classification
+* Achieved ~84% Accuracy
 
-</div>
+### 📈 More Projects Coming Soon...
+
+* Customer Churn Prediction
+* House Price Prediction
+* Sales Analytics Dashboard
+* Machine Learning Portfolio Projects
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-*Seeking a Data Science or ML internship · Open to collaborations*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 📚 Currently Learning
+
+* Machine Learning
+* Statistics
+* XGBoost
+* Feature Engineering
+* Power BI
+* Deep Learning
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: Add Your LinkedIn Profile
+
+---
+
+⭐ Always learning, building, and exploring Data Science & AI.
