@@ -4,7 +4,9 @@
 
 ### 💻 Aspiring Data Scientist | Machine Learning Enthusiast | AI Learner
 
----
+---<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ciyanku&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ## 🚀 About Me
 
