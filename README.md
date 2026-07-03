@@ -4,8 +4,14 @@
 
 ### 💻 Aspiring Data Scientist | Machine Learning Enthusiast | AI Learner
 
----<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ciyanku&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+## 🕒 Local Time
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=🕒+Asia%2FKolkata+(IST)" />
+</p>
+
+<p align="center">
+<img src="https://time.is/India_Standard_Time?embed=1" alt="India Standard Time">
 </p>
 
 ## 🚀 About Me
